@@ -1,0 +1,28 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    background: url("../assets/portfolio-background.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:link, a:visited, a:active{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: none;
+    color: grey;
+    cursor: pointer;
+}
